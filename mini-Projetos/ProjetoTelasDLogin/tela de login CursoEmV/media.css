@@ -1,0 +1,54 @@
+@media screen and (min-width:768px) and (max-width: 992px){
+    #formulario {
+        width: 52vw;
+        height: 300px;          
+        margin-left: auto;     
+        margin-top: -20vw;
+        background-color: white;
+        border-radius: 10px;
+        padding:10px;
+        
+    }
+
+    .entrar {
+        background-color: #a2ebf5;
+        width: 20vw;
+        height: 3em;
+        border-radius: 5px;
+        margin-left: 5%;
+        
+    }
+
+}
+   
+@media screen and (min-width:992px) { 
+    #formulario {
+        width: 42vw;
+        height: 300px;          
+        margin-left: 41vw;     
+        margin-top: 10vw;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        padding:10px;
+        
+    }
+    .entrar {
+        background-color: #a2ebf5;
+        width: 20vw;
+        height: 3em;
+        border-radius: 5px;
+        margin-left: 5%;
+        
+    }
+
+    #imagem {
+        background: url(God.png);
+        display: flex;
+        width: 30vw;
+        height: 30vw;
+        background-position: center center;
+        border-radius: 10px;
+        margin-left: 10vw;
+    }
+
+}

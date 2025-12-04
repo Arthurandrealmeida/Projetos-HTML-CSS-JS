@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin:0px;
+            padding:0p;
+            background: #3c3e41;
+        }
+
+        .center {
+            position: absolute;
+            top:50%;
+            left:50%;
+            transform: translate(-50%, -50%);
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: url({4538A5C8-8960-4749-9FAB-5EC743833941}.png)
+            ; background-position: center;
+            background-size: 300px;
+            animation: animate 5s linear infinite;
+            
+        }
+
+        @keyframes animate {
+            0% {
+                box-shadow:
+                0 0 0 15px rgba(0, 0, 255, .1),
+                 0 0 0 30px rgba(0, 0, 255, .1),
+                  0 0 0 45px rgba(0, 0, 255, .1),
+                   0 0 0 60px rgba(0, 0, 255, .1)
+                    0 0 0 75px rgba(0, 0, 255, .1)
+            }
+
+            50% {
+                box-shadow: 
+                0 0 0 25px rgba(0, 0, 255, .1),
+                 0 0 0 50px rgba(0, 0, 255, .1),
+                  0 0 0 75px rgba(0, 0, 255, .1),
+                   0 0 0 100px rgba(0, 0, 255, .1),
+                    0 0 0 125px rgba(0, 0, 255, .1)
+            }
+
+            100% {
+                box-shadow:
+                0 0 0 15px rgba(0, 0, 255, .1),
+                 0 0 0 30px rgba(0, 0, 255, .1),
+                  0 0 0 45px rgba(0, 0, 255, .1),
+                   0 0 0 60px rgba(0, 0, 255, .1),
+                    0 0 0 75px rgba(0, 0, 255, .1),
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="center"></div>
+</body>
+</html>

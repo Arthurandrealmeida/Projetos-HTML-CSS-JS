@@ -1,0 +1,75 @@
+/* 
+ verde: 49a09d
+ lilás: 5f2c82
+*/
+
+
+* {
+    margin:0px;
+    padding:0px;
+}
+
+#imagem {
+    background: url(God.png);
+    display: flex;
+    width: 40vw;
+    height: 40vw;
+    background-position: center center;
+    border-radius: 10px;
+    margin-bottom: -40vw;
+    
+}
+
+body,html {
+    background: linear-gradient(to bottom, #5f47e6, #8ed4dd); 
+    background-repeat: no-repeat; 
+    height:100vh;
+}
+
+main {
+    
+    padding: 20px;
+    height: 40%;
+}
+
+#formulario {
+    width: 300px;
+    height: 250px;          
+    margin-left: auto;     
+    margin-top: -20vw;
+    background-color: white;
+    border-radius: 10px;
+    padding:10px;
+    
+}
+
+#formulario > p {
+    padding:5px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+.entrar {
+    background-color: #a2ebf5;
+    width: 34vw;
+    height: 3em;
+    border-radius: 5px;
+    margin-left: 5%;
+    
+}
+
+.entrar:hover {
+    background-color: rgb(90, 165, 165);
+}
+
+.impo {
+    width: 29vw;
+    margin-top: 5px ;
+    padding:5px
+}
+
+span {
+    height: 40px;
+}
+
