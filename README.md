@@ -1,5 +1,5 @@
 # Mini Projetos
-Vários mini projetos que eu fiz em um único lugar, cada um focado em uma habilidade específica de HTML, CSS e JavaScript.
+Vários mini projetos que eu fiz em um único lugar, Alguns para eu me divertir e outros para treinar.
 
 ---
 
@@ -78,7 +78,7 @@ Animações ativadas conforme o usuário faz scroll pela página.
 <details>
 <summary><strong>7. 3D Card Hover</strong></summary>
 
-### 3D Card Hover  
+ 3D Card  
 Efeito 3D em cards utilizando transformações CSS.
 
 <img src="https://github.com/user-attachments/assets/2a08ea65-66ff-458a-9d83-fb268b3e6b17" width="600">
