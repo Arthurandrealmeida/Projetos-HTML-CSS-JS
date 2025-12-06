@@ -110,3 +110,16 @@ Animação de preenchimento usando CSS puro.
 </details>
 
 ---
+
+<details>
+<summary><strong>10. 3D Christmas Tree</strong></summary>
+
+### arvore de natal 3D
+arvore de natal em 3d em html e css apenas.
+
+<img width="1173" height="791" alt="{C3A06E47-E30A-4C3E-BB1B-6E35E47DF665}" src="https://github.com/user-attachments/assets/7446d4b1-b4de-46a4-b33e-048993a54274" width="600">
+
+</details>
+
+---
+
