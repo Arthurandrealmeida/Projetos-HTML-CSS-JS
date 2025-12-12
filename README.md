@@ -1,4 +1,4 @@
-# Mini Projetos
+# Projetos
 Vários mini projetos que eu fiz em um único lugar, Alguns para eu me divertir e outros para treinar.
 
 ---
